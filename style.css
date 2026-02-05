@@ -222,9 +222,13 @@ hr {
     display: inline;
     color: #333;
 }
-.pub-venue {
+.pub-venue-green {
     display: inline;
     color: #090;
+}
+.pub-venue-orange {
+    display: inline;
+    color: #FFA500;
 }
 .pub-authors {
     display: block;
